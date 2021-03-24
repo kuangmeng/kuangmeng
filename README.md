@@ -2,7 +2,7 @@
 
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=kuangmeng&show_icons=true&theme=bear&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=kuangmeng&hide=TeX&layout=compact&theme=bear&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=kuangmeng&hide=css,PLpgSQL,html&theme=bear">
 </p>
 
 [![Linkedin](https://img.shields.io/badge/-kuangmeng-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kuangmeng/)](https://www.linkedin.com/in/kuangmeng/)
