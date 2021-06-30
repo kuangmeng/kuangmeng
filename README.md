@@ -1,4 +1,4 @@
-### Hi there 👋, I am Mengmeng, an Application Researcher at Tencent (WXG) currently.
+### Hi there 👋, I am Mengmeng, an Applied Researcher at Tencent (WXG) currently.
 
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=kuangmeng&show_icons=true&theme=bear&line_height=27">
